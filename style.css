@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    margin-top: 10em;
+  }
+  
+  .ctn {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  input {
+    font-size: 1em;
+    text-align: center;
+    width: 2em;
+    height: 2em;
+    border-color: gray;
+    border-radius: 3px;
+  }
+  
+  .addNum {
+     margin: .5em 0;
+  }
+  
+  .addNum label {
+     margin: 0 .5em;
+  }
+  
+  .inputNum {
+    margin: 0 .3em;
+  }
+  
+  .inputNum::-webkit-outer-spin-button,
+  .inputNum::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  button {
+    margin: .5em 0 3em;
+    width: 5em;
+    height: 2.5em;
+    border-color: gray;
+  }
+  
+  .colorBox {
+    margin: 0 auto;
+    width: 50em;
+    height: 20em;
+    border-color: black;
+    background-color: black;
+  }
